@@ -1,0 +1,6 @@
+boto3
+requests
+ipython
+ipdb
+sentence-transformers
+faiss-cpu
